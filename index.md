@@ -16,6 +16,4 @@ Running By The Sword é um game runner que consiste em desviar de obstáculos qu
 
 ![Image](screenshot.png)
 
-![Image](screenshot1.png)
-
 [Download do Jogo](https://itch.io/jam/game-jam-ads-20201-part-i/rate/594968)
