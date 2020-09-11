@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Quem Somos
 
-You can use the [editor on GitHub](https://github.com/julianamarques/bdgames/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Somos a equipe BDGAMES.A nossa logomarca traz uma letra “B” estilizada fazendo referência ao “3D”, que é um estilo de jogo com o qual desenvolvemos afinidade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Time de Desenvolvedores
+* Brendon Lucas (Programador Líder)
+* Francisco Daniel (Programador)
+* Juliana Marques (Programadora)
 
-### Markdown
+### Nossos Projetos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Running by the Sword
+
+Running By The Sword é um game runner que consiste em desviar de obstáculos que possuem sincronia com a música que se passa na fase, enquanto o personagem do jogo estiver correndo. Seu objetivo é chegar ao final da fase, coletando esferas que servirão de pontuação da fase Ouro, Prata e Bronze.
+
+[Download do Jogo](https://itch.io/jam/game-jam-ads-20201-part-i/rate/594968)
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +32,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julianamarques/bdgames/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
