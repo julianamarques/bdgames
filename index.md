@@ -1,6 +1,6 @@
 ## Quem Somos
 
-Somos a equipe BDGAMES.A nossa logomarca traz uma letra “B” estilizada fazendo referência ao “3D”, que é um estilo de jogo com o qual desenvolvemos afinidade.
+Somos a equipe BDGAMES. A nossa logomarca traz uma letra “B” estilizada fazendo referência ao “3D”, que é um estilo de jogo com o qual desenvolvemos afinidade.
 
 #### Time de Desenvolvedores
 
