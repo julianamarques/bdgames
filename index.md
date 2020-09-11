@@ -8,7 +8,7 @@ Somos a equipe BDGAMES. A nossa logomarca traz uma letra “B” estilizada faze
 * Francisco Daniel (Programador)
 * Juliana Marques (Programadora)
 
-### Nossos Projetos
+## Nossos Projetos
 
 #### Running By The Sword
 
